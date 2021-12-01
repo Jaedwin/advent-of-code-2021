@@ -1,4 +1,4 @@
-input = File.readlines('input.txt').map(&:to_i)
+input = File.readlines('advent_of_code_day_1_input.txt').map(&:to_i)
 
 # Puzzle 1
 
